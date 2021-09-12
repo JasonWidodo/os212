@@ -1,3 +1,6 @@
+---
+permalink: /LINKS/
+---
 # My Top Links
 
 1. [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)  
