@@ -10,3 +10,4 @@ ZCZC W01  60  L28  finally done virtual box till finish
 ZCZC W01  60  L25  learn scripting
 ZCZC W01  60  L73  gaming   
 ZCZC W01  80  L03  finishing w1 assignment and create index and links
+ZCZC W01  60  L25  learn CLI and Bash
