@@ -3,7 +3,12 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  40  L00  Read notes and create github page
 ZCZC W00  30  L01  Scele/Discord related
-ZCZC W00  120 L02  Zoom meetings realted
-ZCZC W00  20  L03 create log text
-ZCZC W01  40  L06 install virtual box and still confuse
-ZCZC W02  40  L05 generate GnuPG KEY PAIR
+ZCZC W00  120 L02  Zoom meetings related
+ZCZC W00  20  L03  create log text
+ZCZC W01  40  L31  install virtual box and still confuse
+ZCZC W01  60  L28  finally done virtual box till finish
+ZCZC W01  60  L25  learn scripting
+ZCZC W01  60  L73  gaming   
+ZCZC W01  80  L03  finishing w1 assignment and create index and links
+ZCZC W01  60  L25  learn CLI and Bash
+ZCZC W02  40  L05  generate GnuPG KEY PAIR
