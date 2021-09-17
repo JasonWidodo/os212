@@ -6,3 +6,4 @@ ZCZC W00  30  L01  Scele/Discord related
 ZCZC W00  120 L02  Zoom meetings realted
 ZCZC W00  20  L03 create log text
 ZCZC W01  40  L06 install virtual box and still confuse
+ZCZC W02  40  L05 generate GnuPG KEY PAIR
