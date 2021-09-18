@@ -11,4 +11,7 @@ ZCZC W01  60  L25  learn scripting
 ZCZC W01  60  L73  gaming   
 ZCZC W01  80  L03  finishing w1 assignment and create index and links
 ZCZC W01  60  L25  learn CLI and Bash
-ZCZC W02  40  L05  generate GnuPG KEY PAIR
+ZCZC W02  40  L27  GnuPG, Key-gen, encrypt/decrypt
+ZCZC W02  30  L28  SSH, key-gen, tunneling, putty, winscp
+ZCZC W02  60  L24  Bash, Regex, SED, AWK
+ZCZC W02  40  L21  Trying something
