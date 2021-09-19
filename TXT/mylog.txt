@@ -15,3 +15,4 @@ ZCZC W02  40  L27  GnuPG, Key-gen, encrypt/decrypt
 ZCZC W02  30  L28  SSH, key-gen, tunneling, putty, winscp
 ZCZC W02  60  L24  Bash, Regex, SED, AWK
 ZCZC W02  40  L21  Trying something
+ZCZC W02  30  L99  update my mistake in myrank and mylog
