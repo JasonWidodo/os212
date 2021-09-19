@@ -3,14 +3,32 @@ permalink: /LINKS/
 ---
 # My Top Links
 
+## Week 00
 1. [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)  
 This cheat sheet provide overview syntax for markdown. this sheet give me a simple note to edit my pages.
 
-2. [CLI Commands](https://linoxide.com/essential-linux-basic-commands/)  
+## Week 01  
+1. [CLI Commands](https://linoxide.com/essential-linux-basic-commands/)  
 this website from OS website and about CLI commands for linux. i have try most of the command, some of them can't be used and when i try create a new file, ican't do git push.
 
-3. [Nano Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)  
+2. [Nano Editor](https://linuxize.com/post/how-to-use-nano-text-editor/)  
 this website about command to use nano editor. i use nano because i think Vi's more harder.
 
-4. [Bash Commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)  
+3. [Bash Commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet)  
 this website teach me how to use bash command.
+
+4. [Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)  
+this website about vi cheatsheet. i use it to edit mylog.txt
+
+## Week 02
+1. [Cheatsheet C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)  
+cheatsheet for C. I got this from vnctkecvin
+
+2. [Cybersecurity Intro](https://www.edureka.co/blog/what-is-cybersecurity/)  
+the website provide a simple explanation about cybersecurity.
+
+3. [SHA-256 Algorithm](https://blog.bitnovo.com/en/what-is-sha-256-algorithm-and-how-does-it-work/)  
+SHA-256 is an algorithm used in technological world systems for encrypting information. SHA-256 used for entering data and achieving information with fixed measurement, which means a slightest change in information will generate a totally different hash from the original one. 
+
+4. [Cryptography](https://www.geeksforgeeks.org/cryptography-and-its-types/)  
+this website provide a simple explanation about cryptography
