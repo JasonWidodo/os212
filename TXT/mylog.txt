@@ -16,3 +16,9 @@ ZCZC W02  30  L28  SSH, key-gen, tunneling, putty, winscp
 ZCZC W02  60  L24  Bash, Regex, SED, AWK
 ZCZC W02  40  L21  Trying something
 ZCZC W02  30  L99  update my mistake in myrank and mylog
+ZCZC W03  10  L14  Assignment #04
+ZCZC W03  50  L15  Assignment #05
+ZCZC W03  40  L16  Update mylink.txt
+ZCZC W03  30  L17  Update mylog and myrank
+ZCZC W03  20  L03  Update mypage
+ZCZC W03  50  L64  Helping OS related problem to a friend
