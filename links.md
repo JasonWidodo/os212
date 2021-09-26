@@ -22,7 +22,7 @@ this website about vi cheatsheet. i use it to edit mylog.txt
 
 ## Week 02
 1. [Cheatsheet C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)  
-cheatsheet for C. I got this from vnctkecvin
+cheatsheet for C. I got this from vnctkecvin.
 
 2. [Cybersecurity Intro](https://www.edureka.co/blog/what-is-cybersecurity/)  
 the website provide a simple explanation about cybersecurity.
@@ -32,3 +32,13 @@ SHA-256 is an algorithm used in technological world systems for encrypting infor
 
 4. [Cryptography](https://www.geeksforgeeks.org/cryptography-and-its-types/)  
 this website provide a simple explanation about cryptography
+
+## Week 03  
+1. [File System in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
+this is about basic file system in OS.
+
+2. [Linux File System](https://www.partitionwizard.com/partitionmagic/linux-file-system.html)  
+this link about linux file system introduction. In linux, root directory is the most important directory structure. There a lot of command for root directory.
+
+## Week 04  
+Coming Soon !  
