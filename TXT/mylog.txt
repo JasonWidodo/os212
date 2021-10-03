@@ -23,4 +23,6 @@ ZCZC W03  30  L17  Update mylog and myrank
 ZCZC W03  20  L03  Update mypage
 ZCZC W03  50  L64  Helping OS related problem to a friend
 ZCZC W04  20  L14  Assignment #04
-ZCZC W05  20  L15  Assignment #05
+ZCZC W04  20  L15  Assignment #05
+ZCZC W04  40  L12  Try demos week 3 and 4
+zczc w04  20  L18  Update mylog.txt and myrank.txt
