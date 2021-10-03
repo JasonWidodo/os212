@@ -41,4 +41,11 @@ this is about basic file system in OS.
 this link about linux file system introduction. In linux, root directory is the most important directory structure. There a lot of command for root directory.
 
 ## Week 04  
-Coming Soon !  
+1. [Addresing & Pointer](https://beginnersbook.com/2014/01/c-pointers/)  
+this is about addressing and pointer. i got this from muhammadfarasbaginda.
+
+2. [address](https://www.codingame.com/playgrounds/14589/how-to-play-with-pointers-in-c/address-of-a-variable)  
+another guide about pointer. i got this from vnctkevin.
+
+## Week 05  
+Coming soon!
