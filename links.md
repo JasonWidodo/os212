@@ -3,11 +3,11 @@ permalink: /LINKS/
 ---
 # My Top Links
 
-## Week 00
+## Week 01
 1. [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)  
 This cheat sheet provide overview syntax for markdown. this sheet give me a simple note to edit my pages.
 
-## Week 01  
+## Week 02  
 1. [CLI Commands](https://linoxide.com/essential-linux-basic-commands/)  
 this website from OS website and about CLI commands for linux. i have try most of the command, some of them can't be used and when i try create a new file, ican't do git push.
 
@@ -20,7 +20,7 @@ this website teach me how to use bash command.
 4. [Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)  
 this website about vi cheatsheet. i use it to edit mylog.txt
 
-## Week 02
+## Week 03
 1. [Cheatsheet C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)  
 cheatsheet for C. I got this from vnctkecvin.
 
@@ -33,12 +33,28 @@ SHA-256 is an algorithm used in technological world systems for encrypting infor
 4. [Cryptography](https://www.geeksforgeeks.org/cryptography-and-its-types/)  
 this website provide a simple explanation about cryptography
 
-## Week 03  
+## Week 04  
 1. [File System in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
 this is about basic file system in OS.
 
 2. [Linux File System](https://www.partitionwizard.com/partitionmagic/linux-file-system.html)  
 this link about linux file system introduction. In linux, root directory is the most important directory structure. There a lot of command for root directory.
 
-## Week 04  
+## Week 05
+1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+this article is about virtual memory explanation. virtual memory can be implemented using demand paging, the process of loading page into memory on demand. Swapping is a process removing all of its page from memory.
+
+2. [Demand Paging](https://digitalthinkerhelp.com/demand-paging-in-os-operating-system-examples-advantages-working/)
+this article is about demand paging definition, advantade, etc. Demand paging use page table to maps logical memory to physical memory.
+
+3. [Example Demand Paging](https://www.youtube.com/watch?v=dOVrEbZVeoU)
+an example video about how demand paging works.
+
+4. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
+a short introduction about swapping.
+
+5. [Fault Handling](https://www.youtube.com/watch?v=uqQOIahM868)
+a simple fault handling introduction.
+
+## Week 06    
 Coming Soon !  
