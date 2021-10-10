@@ -41,19 +41,19 @@ this is about basic file system in OS.
 this link about linux file system introduction. In linux, root directory is the most important directory structure. There a lot of command for root directory.
 
 ## Week 05
-1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)  
 this article is about virtual memory explanation. virtual memory can be implemented using demand paging, the process of loading page into memory on demand. Swapping is a process removing all of its page from memory.
 
-2. [Demand Paging](https://digitalthinkerhelp.com/demand-paging-in-os-operating-system-examples-advantages-working/)
+2. [Demand Paging](https://digitalthinkerhelp.com/demand-paging-in-os-operating-system-examples-advantages-working/)  
 this article is about demand paging definition, advantade, etc. Demand paging use page table to maps logical memory to physical memory.
 
-3. [Example Demand Paging](https://www.youtube.com/watch?v=dOVrEbZVeoU)
+3. [Example Demand Paging](https://www.youtube.com/watch?v=dOVrEbZVeoU)  
 an example video about how demand paging works.
 
-4. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
+4. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)  
 a short introduction about swapping.
 
-5. [Fault Handling](https://www.youtube.com/watch?v=uqQOIahM868)
+5. [Fault Handling](https://www.youtube.com/watch?v=uqQOIahM868)  
 a simple fault handling introduction.
 
 ## Week 06    
