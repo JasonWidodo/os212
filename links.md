@@ -56,5 +56,15 @@ a short introduction about swapping.
 5. [Fault Handling](https://www.youtube.com/watch?v=uqQOIahM868)  
 a simple fault handling introduction.
 
-## Week 06    
+## Week 06  
+1.[Processes Intro](https://medium.com/@imdadahad/a-quick-introduction-to-processes-in-computer-science-271f01c780da)  
+this website about process oe program in execution introduction.  
+
+2. [fork() in c](https://www.geeksforgeeks.org/fork-system-call/)  
+fork system call is used to create new process called child process and run together with the process that make the fork() called parent process.  
+
+3. [Wait System Call](https://www.geeksforgeeks.org/wait-system-call-c/)  
+a call wait() blocks is used to stop the parent process until the child process exits. After the child process terminated, parent process continue their execution.  
+
+## Week 07    
 Coming Soon !  

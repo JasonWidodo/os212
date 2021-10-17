@@ -34,3 +34,10 @@ ZCZC W05  10  L18  Update mylog.txt
 ZCZC W05  50  L14  Redo assignment #04
 ZCZC W05  30  L28  Generate new SSH Key
 ZCZC W05  30  L09  Assignment in general
+ZCZC W06  40  L14  Assignment #04
+ZCZC W06  20  L15  Assignment #05
+ZCZC W06  10  L17  Assignment #07
+ZCZC W06  10  L18  Assignment #08
+ZCZC W06  10  L19  Assignment #09
+ZCZC W06  15  L18  Update mylog and my rank
+ZCZC W06  40  L16  Update mylink.txt
