@@ -41,3 +41,11 @@ ZCZC W06  10  L18  Assignment #08
 ZCZC W06  10  L19  Assignment #09
 ZCZC W06  15  L18  Update mylog and my rank
 ZCZC W06  40  L16  Update mylink.txt
+ZCZC W07  60  L02  Zoom meeting related
+ZCZC W07  40  L05  Quiz related
+ZCZC W07  30  L23  CLI related
+ZCZC W07  30  L27  Key-gen, encrypt/decrypt
+ZCZC W07  30  L25  Scripting
+ZCZC W07  60  L14  Finishing Assignment #04
+ZCZC W07  20  L04  Update links.md
+ZCZC W07  25  L04  Update mylog.txt and myrank.txt

@@ -57,7 +57,7 @@ a short introduction about swapping.
 a simple fault handling introduction.
 
 ## Week 06  
-1.[Processes Intro](https://medium.com/@imdadahad/a-quick-introduction-to-processes-in-computer-science-271f01c780da)  
+1. [Processes Intro](https://medium.com/@imdadahad/a-quick-introduction-to-processes-in-computer-science-271f01c780da)  
 this website about process oe program in execution introduction.  
 
 2. [fork() in c](https://www.geeksforgeeks.org/fork-system-call/)  
@@ -66,5 +66,15 @@ fork system call is used to create new process called child process and run toge
 3. [Wait System Call](https://www.geeksforgeeks.org/wait-system-call-c/)  
 a call wait() blocks is used to stop the parent process until the child process exits. After the child process terminated, parent process continue their execution.  
 
-## Week 07    
+## Week 07  
+1. [Sychronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=RDCMUCQYMhOMi_Cdj1CEAU-fv80A&index=1)  
+simple introduction about sychronization.  
+
+2. [Peterson's Algorithm](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)  
+peterson's algorithm use 2 variable to synchronize 2 processes.  
+
+3. [Critical Section](https://www.javatpoint.com/os-critical-section-problem)  
+critical section use to access resources in our computer.  
+
+## Week 08  
 Coming Soon !  
