@@ -77,4 +77,14 @@ peterson's algorithm use 2 variable to synchronize 2 processes.
 critical section use to access resources in our computer.  
 
 ## Week 08  
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)  
+this website guide me to finish week08 assignment.  
+
+2. [CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)  
+simple introduction and explanation about cpu scheduling.  
+
+3. [Another CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)  
+another explanation about cpu scheduling.  
+
+## Wek 09  
 Coming Soon !  
