@@ -87,4 +87,9 @@ simple introduction and explanation about cpu scheduling.
 another explanation about cpu scheduling.  
 
 ## Wek 09  
-Coming Soon !  
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)  
+this website guide me to finish week09 assignment.  
+
+2. [Storage Structure](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)  
+simple explanation and introduction about storage structure.  
+

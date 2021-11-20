@@ -60,3 +60,13 @@ ZCZC W08  20  L16  Update my links
 ZCZC W08  15  L18  Update my ranks
 ZCZC W08  15  L19  Update mylog.txt
 ZCZC W08   5  L20  Submit week08 assignment
+ZCZC W09 100  L02  Zoom meeting related
+ZCZC W09  40  L05  Quiz Week08 related
+ZCZC W09  60  L14  Finishing LFS Chapter 6
+ZCZC W09  70  L15  Finishing LFS Chapter 7
+ZCZC W09  40  L15  Retry a few times because miss a few steps
+ZCZC W09  30  L64  Helping OS related problem to a friend
+ZCZC W09  20  L16  Update my links.md
+ZCZC W09  15  L18  Update myrank.md
+ZCZC W09  15  L19  Update mylog.txt
+ZCZC W09   5  L20  Submit week09 Assignment:
